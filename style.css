@@ -1,0 +1,155 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.top-bar{
+    display: flex;
+}
+.half{
+    width: 50%;
+    margin: 5%;
+}
+.half img{
+    width: 95%;
+}
+span{
+    color: orange;
+}
+.font-color{
+    font-size: 55px;
+    border-left: 3px solid tomato ;
+}
+ .button{
+     text-decoration: none;
+     background-image: linear-gradient(orange, red);
+     padding: 5px 20px;
+     color: white;
+     border-radius: 15px;
+
+ }
+.Scroll{
+    margin-top: 60px;
+}
+.middle-bar{
+    display: flex;
+    margin: 5%;
+
+}
+.middle-bar-1{
+    width: 80%;
+    height: 350px;
+    margin-left: px;
+    margin-right: 50px;
+    padding-left: 40px;
+    padding-right: 20px;
+    border-radius: 15px;
+    background-color:  rgb(16, 188, 240);
+
+}
+.middle-bar-2{
+    width: 80%;
+    height: 350px;
+    margin-left: px;
+    margin-right: 50px;
+    padding-left: 40px;
+    padding-right: 20px;
+    border-radius: 15px;
+    background-color: rgb(53, 65, 235);
+
+
+}
+.middle-bar-3{
+    width: 80%;
+    height: 350px;
+    margin-left: px;
+    margin-right: 50px;
+    padding-left: 40px;
+    padding-right: 20px;
+    border-radius: 15px;
+    background-color: rgb(231, 89, 227);
+
+
+}
+.icon-images{
+    width: 100px;
+}
+.middle-hading{
+    text-align: center;
+    font-size: 50px;
+    margin-top: 40px;
+    margin-bottom: 60px;
+}
+.limits{
+    display: flex;
+    margin-top: 80px;
+    background-image: url(shape-1.png);
+    background-repeat: no-repeat;
+    background-position:left bottom;
+    background-size: 30%;
+}
+.limits img{
+    width: 75%;
+    margin-left: 20%;
+}
+.girl-font{
+    width: 100%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.hadding-taitle-1{
+    font-size: 50px;
+    
+}
+.girl-font-1{
+    width: 100%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.hadding-taitle-2{
+    font-size: 50px;
+    
+}
+.study-bar{
+    display: flex;
+    margin-top: 80px;
+    background-image: url(shape-1.png);
+    background-repeat: no-repeat;
+    background-position:right bottom;
+    background-size: 30%;
+}
+.study-bar img{
+    width: 75%;
+    margin-right: 20%;
+}
+.fotar-hading{
+    text-align: center;
+    font-size: 50px;
+    margin-top: 40px;
+    margin-bottom: 60px;
+}
+.fotar{
+    display: flex;
+    margin: 5%;
+
+}
+.fotar-bar{
+    width: 100%;
+    padding-right: 5%;
+    padding-left: 5%;
+}
+.fotar-hading-1{
+    font-size: 50px;
+   
+    
+}
+.app-bar img{
+    width: 75%;
+    margin-left: 20%;
+}
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    width: px;
+    height: 130px;
+    padding: 20px 25%;
+}
